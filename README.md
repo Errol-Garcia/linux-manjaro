@@ -118,3 +118,15 @@ Seleccionamos en nuestros archivos la ubicación de nuestra imagen iso y la sele
 Posteriormente le damos en "aceptar" para cconfirmar nustra configuracion
 ![screenshot12](img/screenshot12.png)
 
+# Ejecutar SO
+En este punto ya hemos creado y configurado nuestra maquina virtual con el SO Manjaro,
+lo que sigue a continuacion es la ejecucion de de la maquina para ver si fue correctamente creada
+![screenshot13](img/screenshot13.jpg)
+y si es asi, se abrira un menu en la cual nos da las siguientes opciones
+![screenshot14](img/screenshot14.png)
+seleccionaremos la opcion "Boot with open source drivers", en este momento nos damos cuenta que 
+nuestro SO fue cargado con exito, y procedemos a seleccionar esta opcion para poder tener la distribucion
+completa puesto que Linux es un SO libre.
+
+posterior a esto saldra la siguiente ventana que nos da una bienvenida al SO Manjaro 
+![screenshot15](img/screenshot15.png)
