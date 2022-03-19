@@ -40,17 +40,17 @@ en una carpeta del mismo software
 luego de esto presionar "Next".
 
 ## 2.3 Tamaño de memoria
-Ahora nos aparece unaa ventana en la cual tenemos que asignar la cantidad de Memoria RAM le asignaremos a nuestra maquina virtual,
-nos aparece una barra o una casilla para poder poner exactamente la cantidad; ay que tener en cuenta
+Ahora nos aparece una ventana en la cual tenemos que asignar la cantidad de Memoria RAM le asignaremos a nuestra maquina virtual,
+nos aparece una barra o una casilla para poder poner exactamente la cantidad; hay que tener en cuenta
 que no podemos exagerar ni asignar poca Memoria RAM puesto que si no esta en un punto equilibrado
 puede ponerse lento o nuestra maquina virtual en ejecucion o SO que tengamos originalmente en nuestro equipo
 por ello es recomendable no sobrepasar el limite que nos plantea la misma maquina virtual.
 ![screenshot4](img/screenshot4.png)
 
 ## 2.4 Disco Duro
-Nuesta maquina virtual necesita un disco duro en el que almacenara toda la informacion que manejaremos alli.
+Nuesta maquina virtual necesita un disco duro en el que almacenara toda la informacion que manejaremos ahi.
 En esta pestaña nos da tres opciones, la primera nos la da para no añadir un disco duro, la segunda es para crear una disco duro
-virtual y asi alli guardar informacion, la tercera y ultima opcion es por si depronto tenemos un archivo que anteriormente por ejemplo
+virtual y asi guardar informacion, la tercera y ultima opcion es por si depronto tenemos un archivo que anteriormente por ejemplo
 hayamos utilizado como disco duro de otra maquina virtual y lo utilizariamos en la que estamos creando; en este caso le daremos en la segunda opcion
 porque crearemos una nuevo.
 
@@ -89,7 +89,7 @@ En nuestro caso utilizaremos la opcion 1 puesto que queremos una candidad especi
 
 ## 2.7 Ubicacion del archivo y tamaño
 En este paso ya practicamente hemos configurado la parte de almacenamiento en nuestro disco,
-ahora solamente falta asisnar la cantidad de almacenamiento que queremos que este tenga y
+ahora solamente falta asignar la cantidad de almacenamiento que queremos que este tenga y
 posterior a ello la ubicacionde donde se encontrara ese archivo.
 
 ![screenshot8](img/screenshot8.png)
