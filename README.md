@@ -74,8 +74,47 @@ En nuestro caso marcaremos la primera opcion VDI y presionaremos siguiente.
 [2.5.1]:https://www.techopedia.com/definition/10933/virtual-disk-image-vdi
 [2.5.2]:https://megazona.com/software/tipos-de-archivo-de-disco-duro-virtual-en-virtualbox
 
-## Almacenamiento de unidad fisica del disco duro
+## 2.6 Almacenamiento de unidad fisica del disco duro
+En este punto nos pide seleccionar si queremos nuestro disco duro <b>reservado dinamicamente </b> que solo se usara espacio
+en el disco fisico a medida que se llena (hasta un maximo tamaño fijo), sin embargo
+no se reducira de nuevo automaticamente cuando el espacio en él se libere o el <b>Tamaño fijo</b> que puede tomar
+mas tiempo para su creacion en algunos sistemas, pero normalmente es mas rapido al usarlo.
 
+En nuestro caso utilizaremos la opcion 1 puesto que queremos una candidad especifica para nuestro SO.
 
 ![screenshot7](img/screenshot7.png)
+
+## 2.7 Ubicacion del archivo y tamaño
+En este paso ya practicamente hemos configurado la parte de almacenamiento en nuestro disco,
+ahora solamente falta asisnar la cantidad de almacenamiento que queremos que este tenga y
+posterior a ello la ubicacionde donde se encontrara ese archivo.
+
+![screenshot8](img/screenshot8.png)
+
+seleccionamos la opcion crear para crear nuestra maquina virtual. 
+
+
+# 3. Configuraciones
+una ves creada la maquina virtual, accedemos a las configuraciones de la misma para poder cargar nuestra
+imagen iso que descargamos inicialmente; a continuacion mostraremos el paso a paso de la carfa de la imafen iso
+
+## 3.1 Almacenamiento
+En las configuraciones siempre nos salen opciones para poder modificar algo que depronto nos haga falta.
+
+en esta ventana nos vamos al apartado de almacenamiento porque aqui es donde vamos a cargar la imagen iso
+en una unidad de disco que se crea al momento de hacer el proceso del disco duro 
+![screenshot9](img/screenshot9.png)
+
+## 3.2 Selección del disco
+Se selecciona el disco en la cual cargaremos la imagen
+
+![screenshot10](img/screenshot10.jpg)
+
+## 3.3 Busqueda
+Seleccionamos en nuestros archivos la ubicación de nuestra imagen iso y la seleccionamos
+
+![screenshot11](img/screenshot11.png)
+
+Posteriormente le damos en "aceptar" para cconfirmar nustra configuracion
+![screenshot12](img/screenshot12.png)
 
