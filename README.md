@@ -21,14 +21,16 @@ Descargamos la imagen iso del SO [Manjaro][1_0] que pesa aproximadamente 3.4 Gb
 Para poder instalar nuestro SO vamos a hacer uso la maquina virtual [VirtualBox][1_1]
 ya que por medio de esta podemos crear un SO sobre un SO y procedemos a crear nuestra maquina virtual.
 
+[1_1]:https://www.virtualbox.org/
 
 ## 2.1 crear una nueva maquina virtual
-Para crear una nueva maquina virtual abrimos nuestro [VirtualBox][1_1] y en la parte superior nos saldra la opcion
+Para crear una nueva maquina virtual abrimos nuestro [VirtualBox][1_2] y en la parte superior nos saldra la opcion
 para lograr nuestro cometido.
 
+[1_2]:https://www.virtualbox.org/
 ![screenshot2](img/screenshot2.jpg)
 
-[1_1]:https://www.virtualbox.org/
+
 
 ## 2.2 Nombre y ubicacion del SO
 Organizar en que carpeta desea ubicar la maquina virtual, lo cual por defecto viene 
@@ -215,3 +217,16 @@ anteriores que hicimos.
  para terminar le damos en el boton <b>instalar</b> para comenzar el proceso de instalacion
 
 ![screenshot32](img/screenshot31.png)
+
+
+para finalizar, asi estaria el desktop de Manjaro listo para utilizarse.
+
+![screenshot35](img/screenshot35.png)
+
+
+# Tutotial hecho por:
+* Diego Marcelo Jimenez Melendez
+* Jhon Fabio España Cortes
+* Errol Vladimir Garcia Silva
+
+Universidad De Nariño
