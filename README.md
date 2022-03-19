@@ -24,7 +24,9 @@ ya que por medio de esta podemos crear un SO sobre un SO y procedemos a crear nu
 
 ## 2.1 crear una nueva maquina virtual
 Para crear una nueva maquina virtual abrimos nuestro [VirtualBox][1_1] y en la parte superior nos saldra la opcion
-para lograr nuestro cometido 
+para lograr nuestro cometido.
+ 
+
 [1_1]:https://www.virtualbox.org/
 
 ![screenshot2](img/screenshot2.jpg)
@@ -118,7 +120,7 @@ Seleccionamos en nuestros archivos la ubicación de nuestra imagen iso y la sele
 Posteriormente le damos en "aceptar" para cconfirmar nustra configuracion
 ![screenshot12](img/screenshot12.png)
 
-# Ejecutar SO
+# 4. Ejecutar SO
 En este punto ya hemos creado y configurado nuestra maquina virtual con el SO Manjaro,
 lo que sigue a continuacion es la ejecucion de de la maquina para ver si fue correctamente creada
 ![screenshot13](img/screenshot13.jpg)
@@ -130,3 +132,11 @@ completa puesto que Linux es un SO libre.
 
 posterior a esto saldra la siguiente ventana que nos da una bienvenida al SO Manjaro 
 ![screenshot15](img/screenshot15.png)
+
+## 4.1 Configuracion Manjaro
+luego de esto procedemos a hacer las configuraciones basicas que tenemos que hacer 
+para tener una buena experiencia en el SO.
+
+Inicialmente se nos va a desplegar una ventana en al que esta el paso a paso de las configuraciones,
+
+![screenshot17](img/screenshot17.png)
