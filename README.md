@@ -1,11 +1,25 @@
 
 # MANJARO
 
-Manjaro es una distribución bastante conocida.
+Manjaro es una distribución bastante conocida; desarrollado en Australia, Francia y Alemania,
 Basada en Arch Linux, también es de lanzamiento continuo (rolling release), 
 pero al contrario del sistema del que deriva, Manjaro es muy amigable con el usuario, 
 tanto, que recién instalada ya trae todo lo necesario para empezar a usar Steam.
  
+# 2.
+la persona encargada de la revicion de esta SO en sus inicios, fue Jesse Smith de DistroWatch, la realizo en enero de 2013
+a Manjaro Linux 0.8.3, lo cual destaco que "Manjaro realiza todo de manera rápida. El sistema es ligero y el escritorio Xfce es muy fluido. 
+La distribución fue diseñada con la idea de estar lista para usar tanto como sea posible".
+
+# 3.
+La versión 0.8.7 contenía los siguientes entornos de escritorio soportados de manera oficial: XFCE (principal), y OpenBox.
+​ Las ediciones comunitarias incluyen: E17, MATE, LXDE, Cinnamon/Gnome-shell, KDE/Razor-qt y Fluxbox.
+ La versión NET-Edition estaba disponible para quienes deseen instalar sus propios entornos de escritorio
+
+# 5. 
+teniendo en cuenta que Manjaro es distribucion basada en Arch Linux, estas comparten unas caracteristicas
+como el gestor de paquetes Pacman
+
  # Instalacion
 instalacion paso a paso de manjaro.
 
@@ -223,6 +237,13 @@ para finalizar, asi estaria el desktop de Manjaro listo para utilizarse.
 
 ![screenshot35](img/screenshot35.png)
 
+## Mas recursos
+* [About Manjaro][3.1]
+* [Manjaro Linux][3.2]
+
+
+[3.1]:https://wiki.manjaro.org/index.php/About_Manjaro
+[3.2]:https://es.wikipedia.org/wiki/Manjaro_Linux
 
 # Tutotial hecho por:
 * Diego Marcelo Jimenez Melendez
