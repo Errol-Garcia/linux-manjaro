@@ -6,19 +6,39 @@ Basada en Arch Linux, también es de lanzamiento continuo (rolling release),
 pero al contrario del sistema del que deriva, Manjaro es muy amigable con el usuario, 
 tanto, que recién instalada ya trae todo lo necesario para empezar a usar Steam.
  
-# 2.
+## Empresa Encargada
 la persona encargada de la revicion de esta SO en sus inicios, fue Jesse Smith de DistroWatch, la realizo en enero de 2013
 a Manjaro Linux 0.8.3, lo cual destaco que "Manjaro realiza todo de manera rápida. El sistema es ligero y el escritorio Xfce es muy fluido. 
 La distribución fue diseñada con la idea de estar lista para usar tanto como sea posible".
 
-# 3.
+## Entorno De Escritorio
 La versión 0.8.7 contenía los siguientes entornos de escritorio soportados de manera oficial: XFCE (principal), y OpenBox.
 ​ Las ediciones comunitarias incluyen: E17, MATE, LXDE, Cinnamon/Gnome-shell, KDE/Razor-qt y Fluxbox.
  La versión NET-Edition estaba disponible para quienes deseen instalar sus propios entornos de escritorio
 
-# 5. 
+## Exolorador De Archivos 
+Donnatella esta programado en GTK+3 y es muy bien optimizado, por lo que su consumo es bastante reducido y es ideal para funcionar
+con cualquiertipo de escritorio grafico sin que ello suponga una fuerte repercusion sobre el rendimiento 
+general de Manjaro.
+
+### Caracteristicas:
+* Interfaz sencilla de comprender y utilizar.
+* Utiliza las reglas de Vim, por lo que los usarios experimentados en este software tendran cierta ventaja al utilizarlo.
+* Posibilidad de establecer marcas de ubicacion.
+* Potente herramienta de busqueda para localizar archivos en nuestros discos duros.
+* posibilidad de establecer varias carpetas por defecto al inicio de la aplicacion.
+
+## Gestor De Paquetes
 teniendo en cuenta que Manjaro es distribucion basada en Arch Linux, estas comparten unas caracteristicas
 como el gestor de paquetes Pacman
+
+## Lanzamiento 
+Lanzamiento de la primera versión de Linux manjaro la cual fue la versión 0.8.0 “Ascella” en 20-07-2011, a medida de los años hasta el 
+momento han lanzado aproximadamente 35 versiones de esta distribución, siendo la ultima versión la 21.2.2 “Qonos” en 23-01-2022.
+La versión 0.8.7 contenía los siguientes entornos de escritorio soportados de manera oficial: XFCE (principal), y OpenBox.4​
+
+ Las ediciones comunitarias incluyen: E17, MATE, LXDE, Cinnamon/Gnome-shell, KDE/Razor-qt y Fluxbox. La versión NET-Edition 
+ estaba disponible para quienes deseen instalar sus propios entornos de escritorio.
 
  # Instalacion
 instalacion paso a paso de manjaro.
