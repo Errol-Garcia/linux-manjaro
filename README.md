@@ -260,10 +260,12 @@ para finalizar, asi estaria el desktop de Manjaro listo para utilizarse.
 ## Mas recursos
 * [About Manjaro][3.1]
 * [Manjaro Linux][3.2]
+* [Donnatella][3.3]
 
 
 [3.1]:https://wiki.manjaro.org/index.php/About_Manjaro
 [3.2]:https://es.wikipedia.org/wiki/Manjaro_Linux
+[3.3]:https://www.softzone.es/2014/02/18/donnatella-un-completo-gestor-de-archivos-para-arch-linux/
 
 # Tutotial hecho por:
 * Diego Marcelo Jimenez Melendez
